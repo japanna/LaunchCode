@@ -1,7 +1,5 @@
 <!doctype html>
-
 <html> 
-   <li><a href=""  target="_blank"> </a></li>
   <head>
     <title>LaCo | Resources</title>
     <meta charset="utf-8">
